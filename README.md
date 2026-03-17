@@ -27,6 +27,7 @@ To define a hospital management solution that supports patient registration, app
 - Created proposed workflows for patients, doctors, nurses, and system interactions
 - Developed data flow diagrams and supporting system models
 - Designed mock screens for dashboards, appointment scheduling, and sign-in pages
+
 ## Key Deliverables
 - Business requirements document
 - Stakeholder analysis
@@ -52,8 +53,11 @@ To define a hospital management solution that supports patient registration, app
 This proposed solution improves operational efficiency, supports better decision-making, reduces paperwork, enhances patient data accessibility, and provides a scalable foundation for future hospital growth.
 
 ## Files
-- `hospital-management-system-requirements.pdf`
+- `hospital-management-system-business-requirements-document.pdf`
+- `mockup - appointment booking.pdf`
+- `mock up - report dashboard.pdf`
 - `stakeholder-analysis.png`
-- `patient-admission-flowchart.png`
+- `mockup - Sign Up & Log In.pdf`
+- `hospital-management-system-use case`
 - `hms-dashboard-mockup.png`
-- `dfd-diagram.png`
+- `ER-diagram.png`
